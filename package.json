@@ -1,0 +1,7 @@
+{
+  "name": "simple-brunch",
+  "version": "0.1.0",
+  "devDependencies": {
+    "javascript-brunch": "^2.0.0"
+  }
+}
